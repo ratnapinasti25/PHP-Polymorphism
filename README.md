@@ -1,5 +1,5 @@
 # PHP-Polymorphism
-Tugas PHP Object Oriented Programming dengan topik "Polimorphysm" </br>
+Tugas PHP Object Oriented Programming dengan topik "Polymorphism" </br>
 Kelas TIF - D </br>
 Kelompok 3 : </br>
 - Ratna Sih Pinasti     (205150200111026)
