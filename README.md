@@ -1,7 +1,7 @@
 # PHP-Polymorphism
-Tugas PHP Object Oriented Programming dengan topik "Polimorphysm"
-TIF - D
-Kelompok 3 :
+Tugas PHP Object Oriented Programming dengan topik "Polimorphysm" </br>
+KelasTIF - D </br>
+Kelompok 3 : </br>
 -
 -
 -
